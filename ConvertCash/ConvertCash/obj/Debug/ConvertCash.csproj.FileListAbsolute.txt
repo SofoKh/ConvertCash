@@ -1,0 +1,10 @@
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\bin\Debug\ConvertCash.exe.config
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\bin\Debug\ConvertCash.exe
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\bin\Debug\ConvertCash.pdb
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\obj\Debug\ConvertCash.csproj.AssemblyReference.cache
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\obj\Debug\ConvertCash.Form1.resources
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\obj\Debug\ConvertCash.Properties.Resources.resources
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\obj\Debug\ConvertCash.csproj.GenerateResource.cache
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\obj\Debug\ConvertCash.csproj.CoreCompileInputs.cache
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\obj\Debug\ConvertCash.exe
+C:\Users\xvr43\source\repos\ConvertCash\ConvertCash\obj\Debug\ConvertCash.pdb
